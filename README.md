@@ -4,7 +4,7 @@ This guide walks you through installing a secure self-hosted mail server using *
 
 # Install Fail2Ban
 Fail2Ban protects your server from brute-force attacks.
-```sudo apt install fail2ban -y`
+`sudo apt install fail2ban -y`
 
 # Install and Configure UFW Firewall
 sudo apt install ufw -y
