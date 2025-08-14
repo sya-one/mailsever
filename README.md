@@ -7,3 +7,6 @@ Fail2Ban protects your server from brute-force attacks.
 
 ```bash
 sudo apt install fail2ban -y
+
+## 2. Install and Configure UFW Firewall
+
